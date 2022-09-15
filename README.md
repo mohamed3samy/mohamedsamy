@@ -1,4 +1,4 @@
-Hi 👋 My name is Mohamed Samy.
+Hi 👋 My name is Mohamed Samy
 ==============================
 
 an enthusiastic fullstack developer.
