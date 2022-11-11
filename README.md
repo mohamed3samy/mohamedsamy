@@ -4,7 +4,7 @@ Hi 👋 My name is Mohamed Samy
 an enthusiastic fullstack developer.
 ------------------------------------
 
-I'm passionate about building and contributing to projects that increase productivity, bring people together, and/or foster growth.
+I'm passionate about building and contributing to projects that increase productivity, bring people together, and foster growth.
 
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [mohamed701samy@gmail.com](mailto:mohamed701samy@gmail.com)
