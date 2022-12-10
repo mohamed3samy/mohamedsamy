@@ -1,7 +1,7 @@
 Hi 👋 My name is Mohamed Samy
 ==============================
 
-an enthusiastic fullstack developer.
+I'm a Full-Stack Developer 💻
 ------------------------------------
 
 I'm passionate about building and contributing to projects that increase productivity, bring people together, and foster growth.
