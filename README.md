@@ -4,7 +4,9 @@ Hi 👋 My name is Mohamed Samy
 I'm a Full-Stack Developer
 --------------------------
 
-an enthusiastic Fullstack Developer 💻, I'm passionate about building and contributing to projects that increase productivity, bring people together and foster growth 🚀. I always strive to stay up-to-date with new trends in order to produce maximally innovative, testable, maintainable, and stable code. I've built some projects from scratch, and I also have experience in supporting an existing codebase.
+an enthusiastic Fullstack Developer 💻, I'm passionate about building and contributing to projects that increase productivity, bring people together and foster growth 🚀. 
+
+I always strive to stay up-to-date with new trends in order to produce maximally innovative, testable, maintainable, and stable code. I've built some projects from scratch, and I also have experience in supporting an existing codebase.
 
 * 🌍  I'm based in Egypt
 * 🖥️  See my portfolio at [https://mohamedsamy.vercel.app](http://mohamedsamy.vercel.app)
